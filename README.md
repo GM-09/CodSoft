@@ -1,2 +1,2 @@
 # CodSoft
-Web Development internship Tasks.
+Web Development Internship Tasks.
